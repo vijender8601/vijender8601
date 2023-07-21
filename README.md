@@ -1,9 +1,9 @@
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*x4rQFjfi0iK3gS1T.gif" width="100%" height="200">
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*x4rQFjfi0iK3gS1T.gif" width="100%" height="220">
 <h1 align="center">Hi 👋, I'm Vijender Srivastava</h1>
 <h3 align="center">A passionate Web Developer, Competitive Programmer and Android Developer from India.</h3>
 <img src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" width="400" alt="coding_animated_img" align="right">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijender8601&label=Profile%20views&color=0e75b6&style=flat" alt="vijender8601" /> </p>
+
 
 - 🌱 I’m currently learning **MERN**
 
